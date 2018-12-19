@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+.env
+.env.dist
+.idea/SymfonyDockerV1.iml
+.idea/composerJson.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/php.xml
+.idea/symfony2.xml
+.idea/workspace.xml
+bin/
+var/
+vendor/
+/.docker/data/
